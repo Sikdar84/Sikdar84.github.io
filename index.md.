@@ -1,0 +1,80 @@
+---
+title: Manoj Sikdar's CS 499 ePortfolio
+layout: default
+---
+
+# Welcome to My CS 499 ePortfolio
+
+## Manoj Sikdar
+
+This ePortfolio showcases my work and growth in the Computer Science program at Southern New Hampshire University. It demonstrates my skills and abilities across three key areas:
+
+*   **Software Design and Engineering**
+*   **Algorithms and Data Structures**
+*   **Databases**
+
+I have enhanced a single artifact, the Animal Shelter Dashboard from CS 340, to demonstrate my proficiency in each of these categories.
+
+---
+
+## Professional Self-Assessment
+
+[Link to Professional Self-Assessment (Upload this as a PDF)]
+
+---
+
+## Code Review
+
+[Link to Code Review Video (Hosted on YouTube as unlisted)]
+
+---
+
+## Category 1: Software Design and Engineering
+
+**Description:** I refactored the original Jupyter Notebook into a modular MVC architecture, added logging, implemented input validation, and moved credentials to environment variables.
+
+*   [Original Code](/software-design/original_code.py)
+*   [Enhanced Code](/software-design/enhanced_code.py)
+*   [Enhancement Narrative](/software-design/narrative.pdf)
+
+**Skills Demonstrated:** Modular design, PEP 8 compliance, logging, input validation, secure credential management.
+
+**Course Outcomes Addressed:** #4 and #5.
+
+---
+
+## Category 2: Algorithms and Data Structures
+
+**Description:** I implemented server-side pagination, created MongoDB B-tree indexes, and added LRU caching to improve performance from O(n) to O(log n).
+
+*   [Original Code](/algorithms/original_code.py)
+*   [Enhanced Code](/algorithms/enhanced_code.py)
+*   [Enhancement Narrative](/algorithms/narrative.pdf)
+
+**Skills Demonstrated:** Big O analysis, B-tree indexing, pagination algorithms, LRU caching.
+
+**Course Outcomes Addressed:** #3 and #4.
+
+---
+
+## Category 3: Databases
+
+**Description:** I implemented MongoDB schema validation, created an audit logging collection with TTL indexes, and added aggregation pipelines for analytics.
+
+*   [Original Code](/databases/original_code.py)
+*   [Enhanced Code](/databases/enhanced_code.py)
+*   [Enhancement Narrative](/databases/narrative.pdf)
+
+**Skills Demonstrated:** Schema validation, audit logging, aggregation pipelines, TTL indexes.
+
+**Course Outcomes Addressed:** #4 and #5.
+
+---
+
+## Course Outcomes Summary
+
+*   **Outcome #1:** Collaborative environments (addressed in self-assessment)
+*   **Outcome #2:** Professional communications (code review video, narratives, this ePortfolio)
+*   **Outcome #3:** Algorithmic principles (Milestone Three)
+*   **Outcome #4:** Well-founded techniques (Milestone Two and Three)
+*   **Outcome #5:** Security mindset (Milestone Two and Four)
