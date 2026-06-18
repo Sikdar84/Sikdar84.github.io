@@ -87,7 +87,7 @@ My code review walks through the original Animal Shelter code and explains my en
 
 ## About Me
 
-**Manoj Sikdar**  
+**Manoj Chaudhary**  
 CS 499 Capstone - Southern New Hampshire University  
 June 2026
 
